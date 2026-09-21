@@ -53,6 +53,32 @@
         "template_type": "video",
         "category_id": "cate_002"
       }
+      },
+    {
+      "id": "wall_005",
+      "name": "Moutain Peak",
+      "status": true,
+      "is_pro": true,
+      "custom_fields": {
+        "name": "Moutain ",
+        "thumbnail": "https://img3.thuthuatphanmem.vn/uploads/2019/08/13/anh-dep-4k-dung-cho-dien-thoai-thien-nhien-xinh-dep_052945807.jpg",
+        "image_model": "https://img3.thuthuatphanmem.vn/uploads/2019/08/13/anh-dep-4k-dung-cho-dien-thoai-thien-nhien-xinh-dep_052945807.jpg",
+        "template_type": "image",
+        "category_id": "cate_004"
+      }
+      },
+    {
+      "id": "wall_",
+      "name": "Cyberfunk City",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Cyberfunk City",
+        "thumbnail": "https://img5.thuthuatphanmem.vn/uploads/2021/09/12/hinh-nen-dien-thoai-4k-ngau_111948368.jpg",
+        "video_preview": "https://img5.thuthuatphanmem.vn/uploads/2021/09/12/hinh-nen-dien-thoai-4k-ngau_111948368.jpg",
+        "template_type": "image",
+        "category_id": "cate_005"
+      }
     }
   ]
 }
