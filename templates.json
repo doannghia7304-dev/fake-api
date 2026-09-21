@@ -7,12 +7,12 @@
       "id": "wall_004",
       "name": "Deep Sea Video",
       "status": true,
-      "is_pro": false,
+      "is_pro": true,
       "custom_fields": {
         "name": "Deep Sea Video",
         "thumbnail": "https://24hstore.vn/upload_images/images/hinh-nen-bien/hinh-nen-bien-34.jpg",
         "video_preview": "https://24hstore.vn/upload_images/images/hinh-nen-bien/hinh-nen-bien-34.jpg",
-        "template_type": "video",
+        "template_type": "image",
         "category_id": "cate_002"
       }
       },
@@ -46,13 +46,13 @@
       "id": "wall_001",
       "name": "Cyberpunk City",
       "status": true,
-      "is_pro": false,
+      "is_pro": true,
       "custom_fields": {
         "name": "Cyberpunk City",
         "thumbnail": "https://demoda.vn/wp-content/uploads/2022/01/hinh-nen-4k-cho-dien-thoai-nui-tuyet-duoi-bau-troi-day-sao.jpg",
         "video_preview": "https://assets.mixkit.co/videos/preview/mixkit-star-field-in-the-deep-space-32832-large.mp4",
-        "template_type": "video",
-        "category_id": "cate_002"
+        "template_type": "image",
+        "category_id": "cate_001"
       }
     },
     {
