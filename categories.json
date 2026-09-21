@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id": "wall_001",
+      "name": "Cyberpunk City",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Cyberpunk City",
+        "thumbnail": "https://images.unsplash.com/photo-1605142859862-978be7eba909?w=400&q=80",
+        "video_preview": "https://assets.mixkit.co/videos/preview/mixkit-star-field-in-the-deep-space-32832-large.mp4",
+        "template_type": "video",
+        "category_id": "cate_002"
+      }
+    },
+    {
+      "id": "wall_002",
+      "name": "Abstract Liquid GIF",
+      "status": true,
+      "is_pro": true,
+      "custom_fields": {
+        "name": "Abstract Liquid GIF",
+        "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=400&q=80",
+        "image_model": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzRyeXpsZzRyeXpsZzRyeXpsZzRyeXpsZzRyeXpsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif",
+        "template_type": "gif",
+        "category_id": "cate_001"
+      }
+    },
+    {
+      "id": "wall_003",
+      "name": "Mountain Peak",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Mountain Peak",
+        "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=400&q=80",
+        "image_model": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1080&q=80",
+        "template_type": "image",
+        "category_id": "cate_003"
+      }
+    },
+    {
+      "id": "wall_004",
+      "name": "Deep Sea Video",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Deep Sea Video",
+        "thumbnail": "https://images.unsplash.com/photo-1551244072-5d12893278ab?w=400&q=80",
+        "video_preview": "https://assets.mixkit.co/videos/preview/mixkit-underwater-view-of-the-ocean-surface-from-below-41065-large.mp4",
+        "template_type": "video",
+        "category_id": "cate_002"
+      }
+    }
+  ]
+}
