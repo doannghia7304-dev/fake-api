@@ -99,7 +99,7 @@
       "id": "wall_001",
       "name": "Cyberpunk City",
       "status": true,
-      "is_pro": true,
+      "is_pro": false,
       "custom_fields": {
         "name": "Cyberpunk City",
         "thumbnail": "https://demoda.vn/wp-content/uploads/2022/01/hinh-nen-4k-cho-dien-thoai-nui-tuyet-duoi-bau-troi-day-sao.jpg",
@@ -125,7 +125,7 @@
       "id": "wall_004",
       "name": "Deep Sea Video",
       "status": true,
-      "is_pro": true,
+      "is_pro": false,
       "custom_fields": {
         "name": "Deep Sea Video",
         "thumbnail": "https://24hstore.vn/upload_images/images/hinh-nen-bien/hinh-nen-bien-34.jpg",
