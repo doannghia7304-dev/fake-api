@@ -16,17 +16,17 @@
         "category_id": "cate_004"
       }
       },
-    {
-      "id": "wall_004",
-      "name": "Deep Sea Video",
+   {
+      "id": "wall_009",
+      "name": "Abstract Liquid GIF",
       "status": true,
       "is_pro": true,
       "custom_fields": {
-        "name": "Deep Sea Video",
-        "thumbnail": "https://24hstore.vn/upload_images/images/hinh-nen-bien/hinh-nen-bien-34.jpg",
-        "video_preview": "https://24hstore.vn/upload_images/images/hinh-nen-bien/hinh-nen-bien-34.jpg",
-        "template_type": "image",
-        "category_id": "cate_002"
+        "name": "Abstract Liquid GIF",
+        "thumbnail": "https://cdn-media.sforum.vn/storage/app/media/THANHAN/hinh-nen-dong-dep-17.gif",
+        "image_model": "https://cdn-media.sforum.vn/storage/app/media/THANHAN/hinh-nen-dong-dep-17.gif",
+        "template_type": "gif",
+        "category_id": "cate_009"
       }
       },
     
@@ -121,17 +121,17 @@
         "category_id": "cate_001"
       }
     },
-     {
-      "id": "wall_009",
-      "name": "Abstract Liquid GIF",
+    {
+      "id": "wall_004",
+      "name": "Deep Sea Video",
       "status": true,
       "is_pro": true,
       "custom_fields": {
-        "name": "Abstract Liquid GIF",
-        "thumbnail": "https://cdn-media.sforum.vn/storage/app/media/THANHAN/hinh-nen-dong-dep-13.gif",
-        "image_model": "https://cdn-media.sforum.vn/storage/app/media/THANHAN/hinh-nen-dong-dep-13.gif",
-        "template_type": "gif",
-        "category_id": "cate_009"
+        "name": "Deep Sea Video",
+        "thumbnail": "https://24hstore.vn/upload_images/images/hinh-nen-bien/hinh-nen-bien-34.jpg",
+        "video_preview": "https://24hstore.vn/upload_images/images/hinh-nen-bien/hinh-nen-bien-34.jpg",
+        "template_type": "image",
+        "category_id": "cate_002"
       }
     }
   ]
