@@ -5,11 +5,11 @@
   
     {
       "id": "wall_005",
-      "name": "Moutain Peak",
+      "name": "Mountain Peak",
       "status": true,
       "is_pro": true,
       "custom_fields": {
-        "name": "Moutain ",
+        "name": "Mountain Peak",
         "thumbnail": "https://img3.thuthuatphanmem.vn/uploads/2019/08/13/anh-dep-4k-dung-cho-dien-thoai-thien-nhien-xinh-dep_052945807.jpg",
         "image_model": "https://img3.thuthuatphanmem.vn/uploads/2019/08/13/anh-dep-4k-dung-cho-dien-thoai-thien-nhien-xinh-dep_052945807.jpg",
         "template_type": "image",
@@ -49,7 +49,7 @@
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Cyberpunk ",
+        "name": "Cyberpunk City",
         "thumbnail": "https://antimatter.vn/wp-content/uploads/2023/07/hinh-nen-dien-thoai-dai-mau-phan-tang.jpg",
         "image_model": "https://antimatter.vn/wp-content/uploads/2023/07/hinh-nen-dien-thoai-dai-mau-phan-tang.jpg",
         "template_type": "image",
@@ -62,7 +62,7 @@
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Deep ",
+        "name": "Deep Sea",
         "thumbnail": "https://thuthuatnhanh.com/wp-content/uploads/2022/04/Hinh-nen-dien-thoai-bien-dep.jpg",
         "image_model": "https://thuthuatnhanh.com/wp-content/uploads/2022/04/Hinh-nen-dien-thoai-bien-dep.jpg",
         "template_type": "image",
@@ -201,11 +201,11 @@
       },
     {
       "id": "wall_016",
-      "name": "Moutain Peak",
+      "name": "Mountain Peak",
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Moutain Peak",
+        "name": "Mountain Peak",
         "thumbnail": "https://phongvu.vn/cong-nghe/wp-content/uploads/sites/2/2018/09/Yosemite-Mountain-Snow-Forest-Android-Wallpaper-1.jpg",
         "image_model": "https://phongvu.vn/cong-nghe/wp-content/uploads/sites/2/2018/09/Yosemite-Mountain-Snow-Forest-Android-Wallpaper-1.jpg",
         "template_type": "image",
@@ -214,11 +214,11 @@
       },
     {
       "id": "wall_017",
-      "name": "Moutain Peak",
+      "name": "Mountain Peak",
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Moutain Peak",
+        "name": "Mountain Peak",
         "thumbnail": "https://i.pinimg.com/originals/4f/e2/cc/4fe2cc14bc1ecb4e658727f50277ea05.jpg",
         "image_model": "https://i.pinimg.com/originals/4f/e2/cc/4fe2cc14bc1ecb4e658727f50277ea05.jpg",
         "template_type": "image",
@@ -227,11 +227,11 @@
       },
     {
       "id": "wall_018",
-      "name": "Moutain Peak",
+      "name": "Mountain Peak",
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Moutain Peak",
+        "name": "Mountain Peak",
         "thumbnail": "https://server.wallpaperalchemy.com/storage/wallpapers/28/majestic-mountain-moonlit-landscape.jpg",
         "image_model": "https://server.wallpaperalchemy.com/storage/wallpapers/28/majestic-mountain-moonlit-landscape.jpg",
         "template_type": "image",
@@ -240,11 +240,11 @@
       },
     {
       "id": "wall_019",
-      "name": "Moutain Peak",
+      "name": "Mountain Peak",
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Moutain Peak",
+        "name": "Mountain Peak",
         "thumbnail": "https://i.pinimg.com/736x/4d/1a/fe/4d1afed886ab5e5036baa6b7c2fe4153.jpg",
         "image_model": "https://i.pinimg.com/736x/4d/1a/fe/4d1afed886ab5e5036baa6b7c2fe4153.jpg",
         "template_type": "image",
@@ -253,11 +253,11 @@
       },
     {
       "id": "wall_020",
-      "name": "Moutain Peak",
+      "name": "Mountain Peak",
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Moutain Peak",
+        "name": "Mountain Peak",
         "thumbnail": "https://wallpaperbat.com/img/8631269-peaceful-turquoise-lake-near-mountains.jpg",
         "image_model": "https://wallpaperbat.com/img/8631269-peaceful-turquoise-lake-near-mountains.jpg",
         "template_type": "image",
