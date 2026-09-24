@@ -203,7 +203,7 @@
       "id": "wall_016",
       "name": "Moutain Peak",
       "status": true,
-      "is_pro": true,
+      "is_pro": false,
       "custom_fields": {
         "name": "Moutain Peak",
         "thumbnail": "https://phongvu.vn/cong-nghe/wp-content/uploads/sites/2/2018/09/Yosemite-Mountain-Snow-Forest-Android-Wallpaper-1.jpg",
@@ -216,7 +216,7 @@
       "id": "wall_017",
       "name": "Moutain Peak",
       "status": true,
-      "is_pro": true,
+      "is_pro": false,
       "custom_fields": {
         "name": "Moutain Peak",
         "thumbnail": "https://i.pinimg.com/originals/4f/e2/cc/4fe2cc14bc1ecb4e658727f50277ea05.jpg",
@@ -229,7 +229,7 @@
       "id": "wall_018",
       "name": "Moutain Peak",
       "status": true,
-      "is_pro": true,
+      "is_pro": false,
       "custom_fields": {
         "name": "Moutain Peak",
         "thumbnail": "https://server.wallpaperalchemy.com/storage/wallpapers/28/majestic-mountain-moonlit-landscape.jpg",
@@ -242,7 +242,7 @@
       "id": "wall_019",
       "name": "Moutain Peak",
       "status": true,
-      "is_pro": true,
+      "is_pro": false,
       "custom_fields": {
         "name": "Moutain Peak",
         "thumbnail": "https://i.pinimg.com/736x/4d/1a/fe/4d1afed886ab5e5036baa6b7c2fe4153.jpg",
@@ -255,7 +255,7 @@
       "id": "wall_020",
       "name": "Moutain Peak",
       "status": true,
-      "is_pro": true,
+      "is_pro": false,
       "custom_fields": {
         "name": "Moutain Peak",
         "thumbnail": "https://wallpaperbat.com/img/8631269-peaceful-turquoise-lake-near-mountains.jpg",
