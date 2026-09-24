@@ -44,19 +44,6 @@
       }
     },
       {
-      "id": "wall_006",
-      "name": "Cyberpunk City",
-      "status": true,
-      "is_pro": false,
-      "custom_fields": {
-        "name": "Cyberpunk City",
-        "thumbnail": "https://antimatter.vn/wp-content/uploads/2023/07/hinh-nen-dien-thoai-dai-mau-phan-tang.jpg",
-        "image_model": "https://antimatter.vn/wp-content/uploads/2023/07/hinh-nen-dien-thoai-dai-mau-phan-tang.jpg",
-        "template_type": "image",
-        "category_id": "cate_006"
-      }
-    },
-      {
       "id": "wall_007",
       "name": "Deep Sea Video",
       "status": true,
@@ -97,11 +84,11 @@
     },
         {
       "id": "wall_001",
-      "name": "Cyberpunk City",
+      "name": "Mountain Peak",
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Cyberpunk City",
+        "name": "Mountain Peak",
         "thumbnail": "https://demoda.vn/wp-content/uploads/2022/01/hinh-nen-4k-cho-dien-thoai-nui-tuyet-duoi-bau-troi-day-sao.jpg",
         "video_preview": "https://assets.mixkit.co/videos/preview/mixkit-star-field-in-the-deep-space-32832-large.mp4",
         "template_type": "image",
@@ -264,6 +251,19 @@
         "category_id": "cate_020"
       }
       },
+    {
+      "id": "wall_006",
+      "name": "Mountain Peak",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Mountain Peak",
+        "thumbnail": "https://antimatter.vn/wp-content/uploads/2023/07/hinh-nen-dien-thoai-dai-mau-phan-tang.jpg",
+        "image_model": "https://antimatter.vn/wp-content/uploads/2023/07/hinh-nen-dien-thoai-dai-mau-phan-tang.jpg",
+        "template_type": "image",
+        "category_id": "cate_006"
+      }
+    },
     {
       "id": "wall_004",
       "name": "Deep Sea Video",
