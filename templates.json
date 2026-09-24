@@ -58,11 +58,11 @@
     },
       {
       "id": "wall_007",
-      "name": "Deep Sea",
+      "name": "Deep Sea Video",
       "status": true,
       "is_pro": false,
       "custom_fields": {
-        "name": "Deep Sea",
+        "name": "Deep Sea Video",
         "thumbnail": "https://thuthuatnhanh.com/wp-content/uploads/2022/04/Hinh-nen-dien-thoai-bien-dep.jpg",
         "image_model": "https://thuthuatnhanh.com/wp-content/uploads/2022/04/Hinh-nen-dien-thoai-bien-dep.jpg",
         "template_type": "image",
@@ -275,6 +275,136 @@
         "video_preview": "https://24hstore.vn/upload_images/images/hinh-nen-bien/hinh-nen-bien-34.jpg",
         "template_type": "image",
         "category_id": "cate_002"
+      }
+      },
+    {
+      "id": "wall_021",
+      "name": "Deep Sea Video",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Deep Sea Video",
+        "thumbnail": "https://images.pexels.com/photos/35596001/pexels-photo-35596001.jpeg",
+        "video_preview": "https://images.pexels.com/photos/35596001/pexels-photo-35596001.jpeg",
+        "template_type": "image",
+        "category_id": "cate_021"
+      }
+      },
+    {
+      "id": "wall_022",
+      "name": "Deep Sea Video",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Deep Sea Video",
+        "thumbnail": "https://images.pexels.com/photos/2873992/pexels-photo-2873992.jpeg",
+        "video_preview": "https://images.pexels.com/photos/2873992/pexels-photo-2873992.jpeg",
+        "template_type": "image",
+        "category_id": "cate_022"
+      }
+      },
+    {
+      "id": "wall_023",
+      "name": "Deep Sea Video",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Deep Sea Video",
+        "thumbnail": "https://images.pexels.com/photos/34164225/pexels-photo-34164225.jpeg",
+        "video_preview": "https://images.pexels.com/photos/34164225/pexels-photo-34164225.jpeg",
+        "template_type": "image",
+        "category_id": "cate_023"
+      }
+      },
+    {
+      "id": "wall_024",
+      "name": "Deep Sea Video",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Deep Sea Video",
+        "thumbnail": "https://images.pexels.com/photos/30270838/pexels-photo-30270838.jpeg",
+        "video_preview": "https://images.pexels.com/photos/30270838/pexels-photo-30270838.jpeg",
+        "template_type": "image",
+        "category_id": "cate_024"
+      }
+      },
+    {
+      "id": "wall_025",
+      "name": "Deep Sea Video",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Deep Sea Video",
+        "thumbnail": "https://images.pexels.com/photos/39408475/pexels-photo-39408475.jpeg",
+        "video_preview": "https://images.pexels.com/photos/39408475/pexels-photo-39408475.jpeg",
+        "template_type": "image",
+        "category_id": "cate_025"
+      }
+      },
+    {
+      "id": "wall_026",
+      "name": "Deep Sea Video",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Deep Sea Video",
+        "thumbnail": "https://wallpapercave.com/wp/wp8963873.jpg",
+        "video_preview": "https://wallpapercave.com/wp/wp8963873.jpg",
+        "template_type": "image",
+        "category_id": "cate_026"
+      }
+      },
+    {
+      "id": "wall_027",
+      "name": "Deep Sea Video",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Deep Sea Video",
+        "thumbnail": "https://wallpaperaccess.com/full/412643.jpg",
+        "video_preview": "https://wallpaperaccess.com/full/412643.jpg",
+        "template_type": "image",
+        "category_id": "cate_027"
+      }
+      },
+    {
+      "id": "wall_028",
+      "name": "Abstract Liquid GIF",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Abstract Liquid GIF",
+        "thumbnail": "https://wallpaperaccess.com/full/8642900.gif",
+        "video_preview": "https://wallpaperaccess.com/full/8642900.gif",
+        "template_type": "gif",
+        "category_id": "cate_028"
+      }
+      },
+    {
+      "id": "wall_029",
+      "name": "Abstract Liquid GIF",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Abstract Liquid GIF",
+        "thumbnail": "https://media.tenor.com/zzwUZUHbJh4AAAAC/live-wallpaper.gif",
+        "video_preview": "https://media.tenor.com/zzwUZUHbJh4AAAAC/live-wallpaper.gif",
+        "template_type": "gif",
+        "category_id": "cate_029"
+      }
+      },
+    {
+      "id": "wall_030",
+      "name": "Abstract Liquid GIF",
+      "status": true,
+      "is_pro": false,
+      "custom_fields": {
+        "name": "Abstract Liquid GIF",
+        "thumbnail": "https://wallpapercave.com/wp/wp12850263.gif",
+        "video_preview": "https://wallpapercave.com/wp/wp12850263.gif",
+        "template_type": "image",
+        "category_id": "cate_030"
       }
     }
   ]
